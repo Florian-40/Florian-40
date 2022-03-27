@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Florian Robert
-- 👀 I’m interested in statisctics applied to medecine
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on python and learning R
+- 👋 Hi, I’m Florian Robert. I am student in M2 probability and random models at Sorbonne University. I also teach mathematics in high school. 
+- 👀 I’m interested in statisctics applied to medecine. 
 - 📫 You can reach me at florian.robert40@live.com
 
 <!---
